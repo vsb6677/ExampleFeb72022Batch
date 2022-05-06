@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="testcase">
+	<test name="Create User">
+		<classes>
+			<class name="com.sgtesting.scenerios.Scenerio1"></class>
+			<class name="com.sgtesting.scenerios.Scenerio2"></class>
+			<class name="com.sgtesting.scenerios.Scenerio3"></class>
+			<class name="com.sgtesting.scenerios.Scenerio4"></class>
+			<class name="com.sgtesting.scenerios.Scenerio5"></class>
+			<class name="com.sgtesting.scenerios.Scenerio6"></class>
+			<class name="com.sgtesting.scenerios.Scenerio7"></class>
+		</classes>
+	</test>
+</suite>
